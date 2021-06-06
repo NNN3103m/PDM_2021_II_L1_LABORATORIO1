@@ -8,6 +8,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.PDM_2021_II_L1_LABORATORIO1" />
+        android:theme="@style/Theme.PDM_2021_II_L1_LABORATORIO1">
+        <activity android:name=".onlygitupload"></activity>
+    </application>
 
 </manifest>
